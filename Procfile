@@ -1,3 +1,3 @@
-worker: python3 -m AnkiVector
-web: python3 -m AnkiVector
+worker: python3 -m Allexz-OLD
+web: python3 -m Allexz-OLD
 ps:scale worker=1
